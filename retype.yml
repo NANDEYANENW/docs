@@ -5,8 +5,8 @@ url:
 branding:
   title: なんでやねんｗ
   label: トリセツ
-  logo: logo.png
-  favicon: logo.png
+  logo: nande.png
+  favicon: nande.png
 links:
 - text: Discord
   link: https://discord.nandeyanen.click
