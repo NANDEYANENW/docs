@@ -21,3 +21,6 @@ links:
 
 footer:
   copyright: "© 2022-{{ year }} なんでやねんｗ. All rights reserved.  "
+
+editor:
+  enabled: true
