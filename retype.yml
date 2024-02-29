@@ -4,7 +4,7 @@ locale: ja
 url: 
 branding:
   title: なんでやねんｗ
-  label: ﾄﾘｾﾂ
+  label: トリセツ
   logo: nande.png
   favicon: nande.png
 links:
@@ -20,6 +20,3 @@ links:
 
 footer:
   copyright: "© 2022-{{ year }} なんでやねんｗ. All rights reserved.  "
-
-editor:
-  enabled: true
