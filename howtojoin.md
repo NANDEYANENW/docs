@@ -3,7 +3,7 @@ label: 参加方法
 order: 800000
 icon: move-to-start
 ---
-#参加情報
+# 参加情報
 Java版:`nandeyanen.click`<br>
 統合版:`nandeyanenw`
 
