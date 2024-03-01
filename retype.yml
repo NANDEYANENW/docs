@@ -3,8 +3,7 @@ output: .retype
 locale: ja
 url: 
 branding:
-- title: なんでやねんｗ
-  font-size: 10px
+  title: なんでやねんｗ
   label: トリセツ
   logo: nande.png
   favicon: nande.png
