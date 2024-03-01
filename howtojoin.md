@@ -4,7 +4,7 @@ order: 800000
 icon: move-to-start
 ---
 # 参加情報
-Java版:`nandeyanen.click`<br>
+Java版:`nandeyanen.click`  
 統合版:`nandeyanenw`
 
 # Java版
