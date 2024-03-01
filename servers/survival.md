@@ -14,4 +14,4 @@
 ### 3. 職業に就く
 なんでやねんｗサーバーには、様々な職業が存在します。農民、鉱山師など、自分の興味やプレイスタイルに合った職業を選びましょう。  
 職業の選択コマンド: `/jobs borwse`<br>
-![](https://nextcloud.nandeyanen.click/index.php/s/WJZ5Mc83XpjdH6s/preview)　
+<img src="/image/2024-03-01 23-01-42.gif" width="1000">
