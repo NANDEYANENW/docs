@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.762702536293">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.762703555832">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -30,11 +30,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.5.0.762702536293" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.762703555832" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.762702536293" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.762703555832" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.762702536293" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.762703555832" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -307,11 +307,11 @@
     </h4>
 </doc-anchor-target>
 <p><code v-pre>/skills</code>:<br />
-スキルの情報を表示します。<br />
+スキルの情報を表示する。<br />
 <code v-pre>/skills top [スキル名] [ページ数]</code>:<br />
-スキルランキングを表示します。<br />
+スキルランキングを表示する。<br />
 <code v-pre>/skills top</code>:<br />
-全スキルのランキングを表示します。</p>
+全スキルのランキングを表示する。</p>
 <doc-anchor-target id="blocklocker">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#blocklocker">#</doc-anchor-trigger>
@@ -324,7 +324,8 @@
         <span>説明</span>
     </h4>
 </doc-anchor-target>
-<p>チェストやドアなどのブロックをロックし、他のプレイヤーからアクセスを防ぐプラグイン。</p>
+<p>チェストやドアなどのブロックをロックし、他のプレイヤーからアクセスを防ぐプラグイン。<br />
+<img src="/image/survival2.gif" width="1000"></p>
 <doc-anchor-target id="機能">
     <h4>
         <doc-anchor-trigger class="header-anchor-trigger" to="#機能">#</doc-anchor-trigger>
@@ -332,9 +333,114 @@
     </h4>
 </doc-anchor-target>
 <p><code v-pre>[保護]</code>:<br />
-ドアや、かまど、チェスト等の保護したいブロックに対して、看板を設置して保護できます。<br />
+ドアや、かまど、チェスト等の保護したいブロックに対して、看板を設置して保護できる。
 <code v-pre>[編集]</code>:<br />
-看板を右クリックして編集できます。次の行に他の人の名前を記入すると記入した人も保護ブロックに触れるようになります。</p>
+看板を右クリックして編集できます。次の行に他の人の名前を記入すると記入した人も保護ブロックに触れるようになる。<br />
+<code v-pre>[全員]</code>:<br />
+看板の編集で、<code v-pre>[全員]</code>というオプションを記入すると、全員対象のブロックを操作することができるようになる。<br />
+<code v-pre>[タイマー]</code>:<br />
+看板の編集で<code v-pre>[タイマー:数字]</code>というオプションを記入するとその数字に応じて自分でクローズするようになる。</p>
+<doc-anchor-target id="iconomy">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#iconomy">#</doc-anchor-trigger>
+        <span>iConomy</span>
+    </h3>
+</doc-anchor-target>
+<doc-anchor-target id="説明-2">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#説明-2">#</doc-anchor-trigger>
+        <span>説明</span>
+    </h4>
+</doc-anchor-target>
+<p>仮想通貨(お金)の経済プラグイン。プレイヤーはお金を持ち、他のプレイヤーとの取引や経済活動を行います。</p>
+<doc-anchor-target id="コマンド-1">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#コマンド-1">#</doc-anchor-trigger>
+        <span>コマンド</span>
+    </h4>
+</doc-anchor-target>
+<p><code v-pre>/money</code>:<br />
+所持金を表示する。<br />
+<code v-pre>/pay [プレイヤー名] [数]</code>:<br />
+他のプレイヤーに送金する。<br />
+<code v-pre>/money top</code>:<br />
+所持金ランキングを表示する。</p>
+<doc-anchor-target id="jobs">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#jobs">#</doc-anchor-trigger>
+        <span>Jobs</span>
+    </h3>
+</doc-anchor-target>
+<doc-anchor-target id="説明-3">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#説明-3">#</doc-anchor-trigger>
+        <span>説明</span>
+    </h4>
+</doc-anchor-target>
+<p>プレイヤーが異なるジョブに参加し、それぞれのジョブで経験値を得ることができるプラグイン。各ジョブには異なるスキルや報酬がある。</p>
+<doc-anchor-target id="コマンド-2">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#コマンド-2">#</doc-anchor-trigger>
+        <span>コマンド</span>
+    </h4>
+</doc-anchor-target>
+<p><code v-pre>/jobs</code>:<br />
+現在のジョブと経験値を表示する。<br />
+<code v-pre>/jobs join [ジョブの名前]</code>:<br />
+ジョブに参加する。<br />
+<code v-pre>/jobs leave [ジョブの名前]</code>:<br />
+ジョブから脱退する。</p>
+<doc-anchor-target id="towny">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#towny">#</doc-anchor-trigger>
+        <span>Towny</span>
+    </h3>
+</doc-anchor-target>
+<doc-anchor-target id="説明-4">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#説明-4">#</doc-anchor-trigger>
+        <span>説明</span>
+    </h4>
+</doc-anchor-target>
+<p>プレイヤーが街や国を作成し、土地を保護するためのプラグイン。プレイヤーは協力して大きなコミュニティを形成できる。<br />
+土地の取得ややプレイヤーの加入などの機能が提供されている。</p>
+<doc-anchor-target id="コマンド-3">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#コマンド-3">#</doc-anchor-trigger>
+        <span>コマンド</span>
+    </h4>
+</doc-anchor-target>
+<p><code v-pre>/towny price</code>:<br />
+街、国の運営の維持費などを表示する。<br />
+<code v-pre>/towny time</code>:<br />
+次回の税収のタイミングを把握できる。<br />
+<code v-pre>/towny top residents all</code>:<br />
+市民数ランキングを表示する。<br />
+<code v-pre>/town</code>:<br />
+自分が在籍している街の情報を確認できる。<br />
+<code v-pre>/town [町の名前]</code>:<br />
+指定した町の情報を確認できる。<br />
+<code v-pre>/town list</code>:<br />
+街の一覧を表示できる。<br />
+<code v-pre>/town new [町の名前]</code>:<br />
+新しい街を作成できます。</p>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>注意 この操作には、500NANDEのコストが必要です!!!</h5>
+        </div>
+    </div>
+</div>
 
                                 
                                 <!-- Required only on API pages -->
