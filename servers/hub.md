@@ -6,4 +6,4 @@ label: ハブ鯖
 # ハブ鯖
 ようこそ。なんでやねんｗ鯖へ！ここでは、様々な要素が転々と転がっており、なんでやねんライフを快適にするためのToDoリストをご紹介！
 # マップの説明
-<img src="/image/lobby-map1.png" width="1000">
+<img src="/image/lobby-map1.png" width="500">
