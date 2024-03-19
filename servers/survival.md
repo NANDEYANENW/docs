@@ -1,9 +1,9 @@
 ---
 order: 99
-label: サバイバル鯖
+label: 生活鯖
 ---
 
-# サバイバル鯖
+# 生活鯖
 
 # はじめにすること
 
@@ -11,7 +11,7 @@ label: サバイバル鯖
 
 ### 1. 鯖のルール確認
 
-まず、[鯖のルール](http://docs.nandeyanen.click/rule/#minecraft%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB)と、[サバイバル鯖](http://docs.nandeyanen.click/rule/#%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AE%E7%89%B9%E5%88%A5%E3%83%AB%E3%83%BC%E3%83%AB)のみ適用されるルールを確認しましょう。
+まず、[鯖のルール](http://docs.nandeyanen.click/rule/#minecraft%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB)と、[生活鯖](http://docs.nandeyanen.click/rule/#%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AE%E7%89%B9%E5%88%A5%E3%83%AB%E3%83%BC%E3%83%AB)のみ適用されるルールを確認しましょう。
 
 ### 2. 鯖のみんなに挨拶
 チャットで他のプレイヤーに挨拶しましょう。鯖の雰囲気に慣れるためにも、積極的にコミュニケーションを取ることが大切です。
