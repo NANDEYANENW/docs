@@ -2,7 +2,7 @@
 order: 99
 label: 生活鯖
 ---
-
+![](/image/seikatsu.png)
 # 生活鯖
 
 # はじめにすること
