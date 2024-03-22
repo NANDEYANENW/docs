@@ -15,6 +15,6 @@ icon: bookmark
 
 
 ### 広告欄
-<a href="https://px.a8.net/svt/ejp?a8mat=3Z2XYN+7USX4I+2PEO+1I00KH" rel="nofollow">
-<img border="0" width="600" height="500" alt="" src="https://www26.a8.net/svt/bgt?aid=240322415475&wid=001&eno=01&mid=s00000012624009070000&mc=1"></a>
-<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=3Z2XYN+7USX4I+2PEO+1I00KH" alt="">
+<a href="https://px.a8.net/svt/ejp?a8mat=3Z2XYN+7USX4I+2PEO+1HYXZL" rel="nofollow">
+<img border="0" width="250" height="250" alt="" src="https://www21.a8.net/svt/bgt?aid=240322415475&wid=001&eno=01&mid=s00000012624009065000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3Z2XYN+7USX4I+2PEO+1HYXZL" alt="">
