@@ -5,6 +5,8 @@ label: 生活鯖
 ![](/image/seikatsu.png)
 # 生活鯖
 
+Bluemap:https://bluemap.nandeyanen.click
+
 # はじめにすること
 
 ようこそ、なんでやねんｗ鯖へ！ここでは、サバイバル生活を快適に始めるためのToDoリストを紹介します。  
