@@ -68,7 +68,7 @@ Bluemap:https://bluemap.nandeyanen.click
 ### QuickShop
 #### 説明
 ショップを簡単に作成するプラグイン。
-
+<img src="/image/survival3.gif" width="1000">  
 #### 機能
 #### `SHOP作成`:
 チェストに対して、売りたいものを持った状態で左クリックして、チャット欄に値段を入力する。
