@@ -5,7 +5,7 @@ label: 生活鯖
 ![](/image/seikatsu.png)
 # 生活鯖
 
-Bluemap:https://bluemap.nandeyanen.click
+Bluemap: [bluemap.nandeyanen.click](https://bluemap.nandeyanen.click)
 
 # はじめにすること
 
